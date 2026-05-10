@@ -1,14 +1,4 @@
-# NLP Assignment 3 — Word Embeddings and Representation Learning
-
-| Field | Details |
-|---|---|
-| **Course Code** | AI4001 |
-| **Course Title** | Fundamentals of Natural Language Processing |
-| **Assignment** | 3 |
-| **Student Name** | SAMEER ALI |
-| **Roll Number** | 23F0015 |
-| **Dataset** | Twitter Entity Sentiment Analysis |
-
+ Word Embeddings and Representation Learning
 ---
 
 ## Overview
